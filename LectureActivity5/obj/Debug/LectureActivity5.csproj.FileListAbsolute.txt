@@ -1,0 +1,6 @@
+c:\users\arao23\documents\visual studio 2015\Projects\LectureActivity5\LectureActivity5\bin\Debug\LectureActivity5.exe.config
+C:\Users\arao23\Documents\Visual Studio 2015\Projects\LectureActivity5\LectureActivity5\bin\Debug\LectureActivity5.exe
+C:\Users\arao23\Documents\Visual Studio 2015\Projects\LectureActivity5\LectureActivity5\bin\Debug\LectureActivity5.pdb
+C:\Users\arao23\Documents\Visual Studio 2015\Projects\LectureActivity5\LectureActivity5\obj\Debug\LectureActivity5.csprojResolveAssemblyReference.cache
+C:\Users\arao23\Documents\Visual Studio 2015\Projects\LectureActivity5\LectureActivity5\obj\Debug\LectureActivity5.exe
+C:\Users\arao23\Documents\Visual Studio 2015\Projects\LectureActivity5\LectureActivity5\obj\Debug\LectureActivity5.pdb
